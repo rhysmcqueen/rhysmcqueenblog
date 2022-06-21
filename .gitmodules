@@ -1,0 +1,7 @@
+[submodule "rhysmcqueenblog/public"]
+	path = rhysmcqueenblog/public
+	url = https://github.com/rhysmcqueen/rhysmcqueen.github.io.git
+	branch = main
+[submodule "rhysmcqueenblog/themes/PaperMod"]
+	path = rhysmcqueenblog/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git

@@ -1,0 +1,50 @@
+baseURL: 'https://rhysmcqueen.github.io'
+languageCode: en-us
+title: Rhys McQueen
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Welcome to my world!"
+    Content: Thanks for stopping by, this is a place where I unpload cool projects I have been working on and life updates as I go through the world of tech.
+  socialIcons:
+    - name: linkedin
+      url: "https://linkedin.com/rhys-mcqueen"
+    - name: github
+      url: "https://github.com/rhysmcqueen"
+    - name: email
+      url: mailto:rhysmcqueen2@gmail.com
+  cover:
+    linkFULLImages: true
+
+  ShowBreadCrumbs: true
+  ShowReadingTime: false
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+
+menu: 
+  main:
+    - identifier: aboutme
+      name: About Me
+      url: /aboutme/
+      weight: 1
+    - identifier: resume
+      name: Resume
+      url: /resume/
+      weight: 2
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 10
+#    - identifier: categories
+#      name: Categories
+#      url: /categories/
+#      weight: 30
+#    - identifier: tags
+#      name: Tags
+#      url: /tags/
+#      weight: 40
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 39
