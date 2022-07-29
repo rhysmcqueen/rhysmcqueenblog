@@ -23,7 +23,7 @@ tags: ["experience"]
 - Cooling - I worked in a hot/cold aisle enviroment to assist with servers and infrastructur.
 
 ## Examples:
-![CIBC1](img/cibc1.jpg)
+![CIBC1](img/cibc1.jpg 'Cibc1')
 ![CIBC2](img/cibc2.jpg)
 ![CIBC3](img/cibc4.jpg)
 ![CIBC4](img/cibc4.jpg)
