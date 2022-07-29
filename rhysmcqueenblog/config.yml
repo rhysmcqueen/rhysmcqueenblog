@@ -1,4 +1,4 @@
-baseURL: 'https://rhysmcqueen.github.io'
+baseURL: 'https://web.rhysmcqueen.ca'
 languageCode: en-us
 title: Rhys McQueen
 theme: PaperMod
@@ -24,17 +24,17 @@ params:
 
 menu: 
   main:
-    - identifier: aboutme
-      name: About Me
-      url: /aboutme/
-      weight: 1
+#    - identifier: aboutme
+#      name: About Me
+#      url: /aboutme/
+#      weight: 1
     - identifier: resume
       name: Resume
       url: /resume/
       weight: 2
-    - identifier: projects
-      name: Projects
-      url: /projects/
+    - identifier: posts
+      name: Posts
+      url: /post/
       weight: 10
 #    - identifier: categories
 #      name: Categories
