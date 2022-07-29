@@ -4,7 +4,6 @@ layout: "resume"
 url: "/resume/"
 summary: resume
 ---
-![HeadSHOT](img/headshot.jpg)
 Calgary Alberta   
 905-220-2376   
 [LinkedIn](www.linkedin.com/in/rhys-mcqueen)   
