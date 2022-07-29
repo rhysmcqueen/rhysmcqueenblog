@@ -10,11 +10,11 @@ categories: ["tech"]
 tags: ["experience"]
 ---
 # My Past Experiences
-## In the past I have gotten the chance to work for multiple large companies. One being a Bank and another being a security software company. 
-### I have gotten the chance to use many different softwares and hardwares to fullfill my job.
+ In the past I have gotten the chance to work for multiple large companies. One being a Bank and another being a security software company. 
+ I have gotten the chance to use many different softwares and hardwares to fullfill my job.
 
 ## CIBC System Analyst
-### In the role I was task with assisting and supporting the testing lab enviroment for CIBC. To do this I was tasked with the support of many items from racking and networking servers and workstations to the planning and implemntation of power and cooling managment. 
+ In the role I was task with assisting and supporting the testing lab enviroment for CIBC. To do this I was tasked with the support of many items from racking and networking servers and workstations to the planning and implemntation of power and cooling managment. 
 
 ## Skills learned
 - Structure cableing - Cat5,6 Cableing runs, Fiber cabling
